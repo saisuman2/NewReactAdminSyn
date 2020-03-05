@@ -1,0 +1,2 @@
+# NewReactAdminSyn
+Created with CodeSandbox
